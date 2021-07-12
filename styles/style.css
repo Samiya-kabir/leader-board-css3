@@ -123,9 +123,7 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
-    .courses{
-        
-    }
+    
 }
 
 /* tablet devices */
